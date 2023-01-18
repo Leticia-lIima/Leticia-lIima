@@ -10,14 +10,7 @@
    
  </div>    
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="lety-py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  <img align="center" alt="lety-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img align="center" alt="lety-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img align="right" alt="lety-css" height="200" width="200" src="https://i.picasion.com/pic92/d0dcffcc005a9edce27a820239bb592c.gif" 
-  
-  </div>
-  
+
   ##
   
  <div>
