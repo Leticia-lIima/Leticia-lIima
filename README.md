@@ -1,6 +1,6 @@
-### Oii, eu sou a Leticia Lima
+###  Leticia Lima
 
-- 🌱 Atualmente estudo python, CSS, HTML e processamento de sinais
+- 🌱 Atualmente estudo python, CSS, HTML, Java e processamento de sinais
 - 📫 leticia33312@gmail.com
 
 <div>
