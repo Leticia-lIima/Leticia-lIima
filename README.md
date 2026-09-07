@@ -21,7 +21,7 @@
 
 ### Technologies
 
-Python · MATLAB · C/C++ · Java · Git · LaTeX
+Python · MATLAB · Java · 
    
    
           
