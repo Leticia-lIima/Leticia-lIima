@@ -1,23 +1,30 @@
-###  Leticia Lima
+# Leticia Lima
 
-- 🌱 Atualmente estudo python, CSS, HTML, Java e processamento de sinais
-- 📫 leticia33312@gmail.com
+### Aerospace Engineering Student @ UnB
 
-<div>
-  <a href="https://github.com/Leticia-lIima">
- 
-   
- </div>    
-  
+Estudante de Engenharia Aeroespacial apaixonada por tecnologia,
+sistemas espaciais e aplicações de engenharia.
 
-  ##
-  
- <div>
-  <a href="mailto:leticia33312@gmail.com?subject=Assunto"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-   
-  </div>
-  
+🔭 Atualmente trabalhando/estudando:
+- 🛰️ Sistemas Espaciais
+- 🌎 Observação da Terra
+- 🎛️ Sistemas de Controle
+- 📡 Processamento de Sinais
+- 🐍 Python para Engenharia
+- 💻 Desenvolvimento e simulação
 
+### Areas of Interest
+
+- Space Systems
+- Satellite Missions
+- Remote Sensing
+- Control Systems
+- Signal Processing
+- Aerospace Engineering
+
+### Technologies
+
+Python · MATLAB · C/C++ · Java · Git · LaTeX
    
    
           
