@@ -2,9 +2,6 @@
 
 ### Aerospace Engineering Student @ UnB
 
-Estudante de Engenharia Aeroespacial apaixonada por tecnologia,
-sistemas espaciais e aplicações de engenharia.
-
 🔭 Atualmente trabalhando/estudando:
 - 🛰️ Sistemas Espaciais
 - 🌎 Observação da Terra
